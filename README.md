@@ -1,3 +1,3 @@
 # DADS7202 Hello World
-# Banana
+# Traditional ML vs MLP
 # Apple
