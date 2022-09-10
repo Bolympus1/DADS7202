@@ -100,6 +100,9 @@ Handle outlier
 AE-MLP
   - A Hybrid Deep Learning Approach for DDoS Detection and Classification, Yuanyuan Wei; Julian Jang-Jaccard; Fariza Sabrina; Amardeep Singh; Wen Xu; Seyit Camtepe, IEEE Access (Volume: 9), Page(s): 146810 - 146821, 27 October 2021
 
+Reference version
+![deepleaning](https://user-images.githubusercontent.com/86920208/189493303-c8e845e1-ed8c-4461-996f-120a14d1031a.jpg)
+
 # Member:
 1.
 - Research
