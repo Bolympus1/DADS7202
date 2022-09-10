@@ -12,7 +12,7 @@ Explore some of the following research questions:
 Ref: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 # Introduction: 
-This project aim to study the performance of machine learning algorithm between traditional ML and Multi Layer Perceptron (MLP) with data set "diabetes _ binary _ health _ indicators". The task is Binary classification which is evaluate model performane by F1-score.
+This project aim to study the performance of machine learning algorithm between traditional ML and Multi Layer Perceptron (MLP) with data set "diabetes _ binary _ health _ indicators". The task is Binary classification which evaluate model performane by F1-score.
 
 # Assumption:
 As the dataset quite big 253,680 survey and has 21 feature variables with not balanced between diabetes and non-diabetes, our assumption is MLP should show the high performance than traditional ML. 
