@@ -39,9 +39,11 @@ About MLP, first we have review hyperparameter set up with related worked and ne
 
 ![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189487383-d8bd4bc5-3cb6-4ff6-9744-43287cf01372.png)
 
-ทททททททททททททท type of the optimizer, learning rate, batch size and validation split as below table.
+We have trial with 50 combination and Top 10 combination that show higest accuracy as table.
 
 ![deepleaning (3)](https://user-images.githubusercontent.com/107410157/189487781-aa71219d-3ad5-4bad-a4e5-7fe5f667cd8f.png)
+
+
 
 
 # Training:
