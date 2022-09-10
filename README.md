@@ -21,6 +21,7 @@ As the dataset quite big 253,680 survey and has 21 feature variables with not ba
 # Exploratory data analysis :
 This dataset has 21 feature variables and is not balanced. Basically we have cleansing data with explore null/duplicate/distribution and perform handle imbalanced data by using SMOTE that is the method can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling.
 More over, before we run traditional ML we have handle data to suitable with ML technic and maxmize F1-score. The technic that use for data preparation for traditional ML shown below table.
+![deepleaning (4)](https://user-images.githubusercontent.com/107410157/189487745-515b2efb-e43f-48c6-b2b5-fb31796f9d82.png)
 
 
 
@@ -37,6 +38,10 @@ About MLP, first we have review hyperparameter set up with related worked and ne
 ![deepleaning (1)](https://user-images.githubusercontent.com/107410157/189487379-37527650-3d31-4214-8f6d-febaff90576d.png)
 
 ![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189487383-d8bd4bc5-3cb6-4ff6-9744-43287cf01372.png)
+
+ทททททททททททททท type of the optimizer, learning rate, batch size and validation split as below table.
+
+![deepleaning (3)](https://user-images.githubusercontent.com/107410157/189487781-aa71219d-3ad5-4bad-a4e5-7fe5f667cd8f.png)
 
 
 # Training:
