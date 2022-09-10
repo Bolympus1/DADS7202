@@ -76,6 +76,7 @@ The comparison performance between KNN (the best one of traditional ML) and MLP 
 
 6. The higher the learning rate, the lower the default value. This increased the Accuracy, as expected. Initially, the team used default 0.01, then adjusted it to 0.0001.
 
+
 # Conclusion:
 Summarize the results of this project.
 
@@ -84,6 +85,7 @@ Adjusting Hyperparameter between Traditonal ML and MLP
 
 Time and Resources to Build the Model Between Traditional ML and MLP
 - Due to the team using Trial and Error principles, it takes much more time and resources to build Model MLP (Extremely) Traditional ML, even though the data is small and tabular. Therefore, tasks that are not complicated should use Traditional ML. More than an MLP
+
 
 # References:
 Basic machine learning
@@ -98,6 +100,7 @@ AE-MLP
 
 Reference version
 ![deepleaning](https://user-images.githubusercontent.com/86920208/189493303-c8e845e1-ed8c-4461-996f-120a14d1031a.jpg)
+
 
 # Deepsleep's Member:
 1.(20%) Athit Santikarn 6410414007
