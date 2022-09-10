@@ -100,7 +100,26 @@ Basic machine learning
 youtube chanel: data professor (Chanin Nantasenamat)
 
 # Member:
-
+1.
+- Research
+- Train and tune ML
+- Write result, discussion, conclusion report
+2.
+- Research
+- Train and tune ML
+- Write result, discussion, conclusion report
+3.
+- Prepare and clean dataset
+- Train and tune ML & MLP model
+- Write network architecture, training, discussion, conclusion report
+4.
+- Prepare and clean dataset
+- Train and tune ML & MLP model
+- Write network architecture, training, discussion, conclusion report
+5.
+- Prepare and clean dataset    
+- Train and tune ML & MLP model
+- Write network architecture, training, discussion, conclusion report
 
 # End credit: 
 This project is a part of Course DADS7202 Deep Learning, Data Analytics and Data Science, NIDA.
