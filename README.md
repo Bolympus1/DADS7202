@@ -90,12 +90,15 @@ Time and Resources to Build the Model Between Traditional ML and MLP
 - Due to the team using Trial and Error principles, it takes much more time and resources to build Model MLP (Extremely) Traditional ML, even though the data is small and tabular. Therefore, tasks that are not complicated should use Traditional ML. More than an MLP
 
 # References:
+Basic machine learning
+  - youtube chanel: data professor (Associate Professor Chanin Nantasenamat, Ph.D.)
+ 
 Handle outlier
   - https://medium.com/@prashant.nair2050/hands-on-outlier-detection-and-treatment-in-python-using-1-5-iqr-rule-f9ff1961a414
   - https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
 
-Basic machine learning
-  - youtube chanel: data professor (Associate Professor Chanin Nantasenamat, Ph.D.)
+AE-MLP
+  - A Hybrid Deep Learning Approach for DDoS Detection and Classification, Yuanyuan Wei; Julian Jang-Jaccard; Fariza Sabrina; Amardeep Singh; Wen Xu; Seyit Camtepe, IEEE Access (Volume: 9), Page(s): 146810 - 146821, 27 October 2021
 
 # Member:
 1.
