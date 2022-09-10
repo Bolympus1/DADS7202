@@ -48,8 +48,6 @@ We have a trial with 39 combinations and the Top 10 combinations that show the h
 ![deepleaning (1)](https://user-images.githubusercontent.com/86920208/189493574-df2d9a38-5d08-4c45-bd0f-01b2ef647366.jpg)
 
 
-
-
 # Training:
 
 We selected the best one from MLP run 5 times and the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266 sec.
@@ -58,8 +56,6 @@ Train accuracy vs Train loss show the problem on this training is overfit.
 ![deepleaning](https://user-images.githubusercontent.com/107410157/189488737-3cbc52c5-11dc-4e85-9b49-0a6aea944edd.png)
 
 ![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189490390-09794b8c-483f-46ca-901e-b46e9773c3c4.png)
-
-
 
 
 
