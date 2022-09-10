@@ -19,13 +19,20 @@ As the dataset quite big 253,680 survey and has 21 feature variables with not ba
 
 
 # Exploratory data analysis :
+This dataset has 21 feature variables and is not balanced. Basically we have cleansing data with explore null/duplicate/distribution and perform handle imbalanced data by using SMOTE that is the method can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling.
+More over, before we run traditional ML we have handle data to suitable with ML technic and maxmize F1-score. The technic that use for data preparation for traditional ML shown below table.
 
-
-
+# Traditional ML:
+We selected 4 traditional ML whic is 
+ 
 
 # Network architecture:
 
+
+
 # Training:
+
+
 
 # Results:
 
@@ -38,6 +45,8 @@ As the dataset quite big 253,680 survey and has 21 feature variables with not ba
 
 # Member:
 
-# End credit: This project is a part of Course DADS7202 Deep Learning, Data Analytics and Data Science, NIDA.
+
+# End credit: 
+This project is a part of Course DADS7202 Deep Learning, Data Analytics and Data Science, NIDA.
 
 
