@@ -81,7 +81,7 @@ The comparison performance between KNN (the best one of traditional ML) and MLP 
 6. The higher the learning rate, the lower the default value. This increased the Accuracy, as expected. Initially, the team used default 0.01, then adjusted it to 0.0001.
 
 # Conclusion:
-Summarize the results of this homework.
+Summarize the results of this project.
 
 Adjusting Hyperparameter between Traditonal ML and MLP
 - Adjusting the Hyperparameter of MLP is more diverse and complex than traditional ML. Hyperparameter is more difficult, as most of the MLP research teams did not provide clear principles for defining the Network architecture, but using the Trial and Error principle, the team decided to use the Trial and Error method, so the results of the MLP could still be improved.
