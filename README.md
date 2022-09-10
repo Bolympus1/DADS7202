@@ -70,7 +70,15 @@ The comparison performance between KNN (the best one of traditional ML) and MLP 
 
 
 # Discussion:
+1. The imbalance correction increased Accuracy in both Traditional ML and MLP, as expected. In addition, an imbalance with SMOTE_ENN (from imblearn.combine import SMOTEENN) resulted in a more significant increase in Accuracy. Compared to sklearn oversampling (from sklearn.utils import resample).
 
+2. The increasing number of layers does not guarantee that the Accuracy will increase. Because if we set a small number of layers, but if there is a large number of epochs, it can increase the Accuracy.
+
+3. The Epoch number affects the Accuracy, as expected. But if we increase the number of Epoch more and more. Found that it doesn't affect Accuracy, which is unexpected because the team understands that it can keep pushing until the Accuracy reaches 0.99.
+
+4. The number of batch sizes had no significant effect on Accuracy, which was unexpected as the team understood that more batch sizes would increase Accuracy.
+
+6. The higher the learning rate, the lower the default value. This increased the Accuracy, as expected. Initially, the team used default 0.01, then adjusted it to 0.0001.
 
 # Conclusion:
 Summarize the results of this homework.
