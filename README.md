@@ -95,7 +95,7 @@ Handle outlier
   - https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
 
 Basic machine learning
-  - youtube chanel: data professor (Chanin Nantasenamat)
+  - youtube chanel: data professor (Associate Professor Chanin Nantasenamat, Ph.D.)
 
 # Member:
 1.
