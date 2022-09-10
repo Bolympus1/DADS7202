@@ -19,8 +19,12 @@ As the dataset is quite big 253,680 surveys and has 21 feature variables with no
 
 
 # Exploratory Data Analysis :
-This dataset has 21 feature variables and is not balanced. We have cleansed data by exploring null/duplicate/distribution and imbalanced data by using SMOTE which is the method that can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling.
-Moreover, before we run traditional ML we have to handle data to be suitable for the ML technic and maximize F1 score. The technic that use for data preparation for traditional ML is shown below the table.
+This dataset has 21 feature variables and is not balanced. We have cleansed data by exploring null/duplicate/distribution. 
+  - Handle Imbalanced data by using SMOTE which is the method that can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling. 
+  - Handle Outlier by IQR (Interquartile range)
+  - Handle Standardize by StandardScaler
+
+  Moreover, before we run traditional ML we have to handle data to be suitable for the ML technic and maximize F1 score. The technic that use for data preparation for traditional ML is shown below the table.
 ![deepleaning (4)](https://user-images.githubusercontent.com/107410157/189487745-515b2efb-e43f-48c6-b2b5-fb31796f9d82.png)
 
 
@@ -39,7 +43,7 @@ About MLP, first, we have a review hyperparameter set up with related work, and 
 
 ![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189487383-d8bd4bc5-3cb6-4ff6-9744-43287cf01372.png)
 
-We have a trial with 50 combinations and the Top 10 combinations that show the higest accuracy as table.
+We have a trial with 39 combinations and the Top 10 combinations that show the higest accuracy as table.
 
 ![deepleaning (3)](https://user-images.githubusercontent.com/107410157/189487781-aa71219d-3ad5-4bad-a4e5-7fe5f667cd8f.png)
 
@@ -49,7 +53,7 @@ We have a trial with 50 combinations and the Top 10 combinations that show the h
 # Training:
 
 We selected the best one from MLP run 5 times and the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266 sec.
-Train accuracy vs Train loss show the problem that this training overfit.
+Train accuracy vs Train loss show the problem on this training is overfit.
 
 ![deepleaning](https://user-images.githubusercontent.com/107410157/189488737-3cbc52c5-11dc-4e85-9b49-0a6aea944edd.png)
 
@@ -70,8 +74,10 @@ The comparison performance between KNN (the best one of traditional ML) and MLP 
 
 # Conclusion:
 Summarize the results of this homework.
+
 Adjusting Hyperparameter between Traditonal ML and MLP
 - Adjusting the Hyperparameter of MLP is more diverse and complex than traditional ML. Hyperparameter is more difficult, as most of the MLP research teams did not provide clear principles for defining the Network architecture, but using the Trial and Error principle, the team decided to use the Trial and Error method, so the results of the MLP could still be improved.
+
 Time and Resources to Build the Model Between Traditional ML and MLP
 - Due to the team using Trial and Error principles, it takes much more time and resources to build Model MLP (Extremely) Traditional ML, even though the data is small and tabular. Therefore, tasks that are not complicated should use Traditional ML. More than an MLP
 
