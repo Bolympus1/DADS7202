@@ -48,7 +48,10 @@ We have trial with 50 combination and Top 10 combination that show higest accura
 
 # Training:
 
-MLP with 5 iteration show F1-score 0.9523 +/- 0.0011
+We selected the best one from MLP run 5 times and the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266sec.
+
+![deepleaning](https://user-images.githubusercontent.com/107410157/189488737-3cbc52c5-11dc-4e85-9b49-0a6aea944edd.png)
+
 
 
 
