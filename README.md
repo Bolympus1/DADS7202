@@ -1,5 +1,4 @@
-# DADS7202 Hello World
-# Traditional ML vs MLP
+# Traditional ML vs MLP for Diabetes Binary Classification
 ## 1. Dataset
 diabetes _ binary _ health _ indicators _ BRFSS2015.csv is a clean dataset of 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced.
 Explore some of the following research questions:
