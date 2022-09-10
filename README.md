@@ -106,12 +106,16 @@ Reference version
 # Member:
 1.(20%) Athit Santikarn 6410414007
 - Research / Train and tune ML / Write result, discussion, conclusion report
+
 2.(20%) Suphanun Sukamta 6410422020
 - Research / Train and tune ML / Write result, discussion, conclusion report
+
 3.(20%) Chokchai Kenpho 6410422004
 - Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
+
 4.(20%) Noppol Anakpluek 641422009
 - Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
+
 5.(20%) Watcharakorn Pasanta 6420422006
 - Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
 
