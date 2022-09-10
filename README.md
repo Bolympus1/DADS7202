@@ -103,7 +103,7 @@ AE-MLP
 Reference version
 ![deepleaning](https://user-images.githubusercontent.com/86920208/189493303-c8e845e1-ed8c-4461-996f-120a14d1031a.jpg)
 
-# Member:
+# Deepsleep's Member:
 1.(20%) Athit Santikarn 6410414007
 - Research / Train and tune ML / Write result, discussion, conclusion report
 
