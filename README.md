@@ -91,11 +91,12 @@ Time and Resources to Build the Model Between Traditional ML and MLP
 
 # References:
 Handle outlier
--https://medium.com/@prashant.nair2050/hands-on-outlier-detection-and-treatment-in-python-using-1-5-iqr-rule-f9ff1961a414
--https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
+https://medium.com/@prashant.nair2050/hands-on-outlier-detection-and-treatment-in-python-using-1-5-iqr-rule-f9ff1961a414
+
+https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
 
 Basci machine learning
-    youtube chanel: data professor (Chanin Nantasenamat)
+youtube chanel: data professor (Chanin Nantasenamat)
 
 # Member:
 
