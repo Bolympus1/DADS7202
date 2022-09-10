@@ -24,14 +24,14 @@ This dataset has 21 feature variables and is not balanced. We have cleansed data
   - Handle Outlier by IQR (Interquartile range)
   - Handle Standardize by StandardScaler
 
-  Moreover, before we run traditional ML we have to handle data to be suitable for the ML technic and maximize F1 score. The technic that use for data preparation for traditional ML is shown below the table.
+  Moreover, before we run traditional ML we have to handle data to be suitable for the ML technique and maximize F1 score. The technique that use for data preparation for traditional ML is shown below the table.
 ![deepleaning (4)](https://user-images.githubusercontent.com/107410157/189487745-515b2efb-e43f-48c6-b2b5-fb31796f9d82.png)
 
 
 
 # Traditional ML:
 We selected 4 traditional ML are HistGradientBoosting, Decision Tree, K-Nearest Neighbors(KNN), and Logistic Regression for Binary classification.
-KNN show the higest F1-score 0.9877 and use only 0.02 sec for training and the other technic show performance result as table.
+KNN show the higest F1-score 0.9877 and use only 0.02 sec for training and the other technique show performance result as table.
 
 ![image](https://user-images.githubusercontent.com/107410157/189485680-2a6b702b-2799-4b5b-98da-5b122ced2b53.png)
 
