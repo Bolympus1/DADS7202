@@ -38,7 +38,7 @@ About MLP, first we have review hyperparameter set up with related worked and ne
 
 ![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189487383-d8bd4bc5-3cb6-4ff6-9744-43287cf01372.png)
 
-We have trial with 50 combination and Top 10 combination that show higest accuracy as table.
+We have trial with 39 combination and Top 10 combination that show higest accuracy as table.
 
 ![deepleaning (3)](https://user-images.githubusercontent.com/107410157/189487781-aa71219d-3ad5-4bad-a4e5-7fe5f667cd8f.png)
 
@@ -47,7 +47,7 @@ We have trial with 50 combination and Top 10 combination that show higest accura
 
 # Training:
 
-We selected the best one from MLP run 5 times and the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266 sec.
+We selected the best one from MLP and run 5 times, the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266 sec.
 
 ![deepleaning](https://user-images.githubusercontent.com/107410157/189488737-3cbc52c5-11dc-4e85-9b49-0a6aea944edd.png)
 
@@ -56,12 +56,14 @@ We selected the best one from MLP run 5 times and the performance of F1-score av
 
 
 # Results:
-The comparison performance between KNN (the best one of traditional ML) and MLP show that KNN is higher F1-Score and utilize runtime less than MLP significantly.
+The comparison performance between KNN (the best one of traditional ML) and MLP show that traditional ML is higher F1-Score and utilize runtime less than MLP significantly.
 
 ![deepleaning (1)](https://user-images.githubusercontent.com/107410157/189489064-b10ca4a8-abe0-479d-8a6a-7497ff2f447a.png)
 
 
 # Discussion: 
+
+
 
 # Conclusion:
 สรุปผลของการบ้านครั้งนี้
