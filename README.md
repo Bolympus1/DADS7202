@@ -1,6 +1,6 @@
-# DADS7202
-# Traditional ML vs MLP
-## 1. Dataset
+
+# Traditional ML vs MLP for Diabetes Binary Classification
+## Dataset
 diabetes _ binary _ health _ indicators _ BRFSS2015.csv is a clean dataset of 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced.
 Explore some of the following research questions:
 
@@ -18,8 +18,8 @@ This project aims to study the performance of machine learning algorithms betwee
 As the dataset is quite big 253,680 surveys and has 21 feature variables with not balanced between diabetes and non-diabetes, we assume that MLP should show a high performance than traditional ML. 
 
 
-# Exploratory data analysis :
-This dataset has 21 feature variables and is not balanced. We have cleansed data by exploring null/duplicate/distribution and perform handle imbalanced data by using SMOTE which is the method that can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling.
+# Exploratory Data Analysis :
+This dataset has 21 feature variables and is not balanced. We have cleansed data by exploring null/duplicate/distribution and imbalanced data by using SMOTE which is the method that can generate noisy samples by interpolating new points between marginal outliers and inliers. This issue can be solved by cleaning the space resulting from over-sampling.
 Moreover, before we run traditional ML we have to handle data to be suitable for the ML technic and maximize F1 score. The technic that use for data preparation for traditional ML is shown below the table.
 ![deepleaning (4)](https://user-images.githubusercontent.com/107410157/189487745-515b2efb-e43f-48c6-b2b5-fb31796f9d82.png)
 
@@ -49,20 +49,24 @@ We have a trial with 50 combinations and the Top 10 combinations that show the h
 # Training:
 
 We selected the best one from MLP run 5 times and the performance of F1-score avg. 0.9523 +/- 0.0011, runtime is 1,266 sec.
+Train accuracy vs Train loss show the problem that this training overfit.
 
 ![deepleaning](https://user-images.githubusercontent.com/107410157/189488737-3cbc52c5-11dc-4e85-9b49-0a6aea944edd.png)
+
+![deepleaning (2)](https://user-images.githubusercontent.com/107410157/189490390-09794b8c-483f-46ca-901e-b46e9773c3c4.png)
 
 
 
 
 
 # Results:
-The comparison performance between KNN (the best one of traditional ML) and MLP show that KNN is higher F1-Score and utilize runtime less than MLP
+The comparison performance between KNN (the best one of traditional ML) and MLP show that Traditional ML is higher F1-Score than MLP and utilize runtime less than MLP significantly.
 
 ![deepleaning (1)](https://user-images.githubusercontent.com/107410157/189489064-b10ca4a8-abe0-479d-8a6a-7497ff2f447a.png)
 
 
-# Discussion: 
+# Discussion:
+
 
 # Conclusion:
 Summarize the results of this homework.
