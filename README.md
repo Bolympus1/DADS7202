@@ -45,7 +45,7 @@ About MLP, first, we have a review hyperparameter set up with related work, and 
 
 We have a trial with 39 combinations and the Top 10 combinations that show the higest accuracy as table.
 
-![deepleaning (3)](https://user-images.githubusercontent.com/107410157/189487781-aa71219d-3ad5-4bad-a4e5-7fe5f667cd8f.png)
+![deepleaning (1)](https://user-images.githubusercontent.com/86920208/189493574-df2d9a38-5d08-4c45-bd0f-01b2ef647366.jpg)
 
 
 
