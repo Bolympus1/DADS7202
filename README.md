@@ -57,7 +57,7 @@ We selected the best one from MLP run 5 times and the performance of F1-score av
 
 
 # Results:
-The comparison performance between KNN (the best one of traditional ML) and MLP show that KNN is higher F1-Score and utilize runtime less than MLP
+The comparison performance between KNN (the best one of traditional ML) and MLP show that KNN is higher F1-Score and utilize runtime less than MLP significantly.
 
 ![deepleaning (1)](https://user-images.githubusercontent.com/107410157/189489064-b10ca4a8-abe0-479d-8a6a-7497ff2f447a.png)
 
