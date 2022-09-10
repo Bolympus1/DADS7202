@@ -104,26 +104,16 @@ Reference version
 ![deepleaning](https://user-images.githubusercontent.com/86920208/189493303-c8e845e1-ed8c-4461-996f-120a14d1031a.jpg)
 
 # Member:
-1.
-- Research
-- Train and tune ML
-- Write result, discussion, conclusion report
-2.
-- Research
-- Train and tune ML
-- Write result, discussion, conclusion report
-3.
-- Prepare and clean dataset
-- Train and tune ML & MLP model
-- Write network architecture, training, discussion, conclusion report
-4.
-- Prepare and clean dataset
-- Train and tune ML & MLP model
-- Write network architecture, training, discussion, conclusion report
-5.
-- Prepare and clean dataset    
-- Train and tune ML & MLP model
-- Write network architecture, training, discussion, conclusion report
+1.(20%) Athit Santikarn 6410414007
+- Research / Train and tune ML / Write result, discussion, conclusion report
+2.(20%) Suphanun Sukamta 6410422020
+- Research / Train and tune ML / Write result, discussion, conclusion report
+3.(20%) Chokchai Kenpho 6410422004
+- Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
+4.(20%) Noppol Anakpluek 641422009
+- Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
+5.(20%) Watcharakorn Pasanta 6420422006
+- Prepare and clean dataset / Train and tune ML & MLP model / Write network architecture, training, discussion, conclusion report
 
 # End credit: 
 This project is a part of Course DADS7202 Deep Learning, Data Analytics and Data Science, NIDA.
